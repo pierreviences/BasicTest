@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Reverse Geocoding</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+
+<body onload="initMap()">
+    <div id="floating-panel">
+
+        <div id="location"></div>
+        <input id="latlng" type="text" value="40.714224,-73.961452" />
+        <input id="submit" type="button" value="Reverse Geocode" onclick="geocodeLatLng()" />
+    </div>
+
+    <div id="map"></div>
+    <script type='text/javascript'
+        src='https://www.bing.com/api/maps/mapcontrol?callback=initMap&key=AnmdP5Ko_zhVEfwvqCrVPEKtDs9PxPU5yji-PswMMxn-dHltT7Jngb_ONGS7fSUX'></script>
+</body>
+
+</html>
