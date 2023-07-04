@@ -1,3 +1,5 @@
+# Menjawab Soal No 2
+
 # Alasan menggunakan metode ini
 
 Sebelumnya izin memeberikan informasi, dikarenakan layanan Google Maps API saat ini mengenakan biaya, saya memilih Bing Maps API sebagai alternatif untuk mengambil data maps dan menjawab pertanyaan nomor 1. Setelah saya ngoprek sana-sini dan nyari referensi dari banyak sumber, akhirnya saya nemuin metode yang menurut saya oke banget buat nyelesain masalah si john ini. Tapi, saya sendiri gatau sebenernya metode ini namanya apa. 
